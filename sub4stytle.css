@@ -164,7 +164,7 @@ padding-top: 122px;}
 #space{width: 100%; height: 710px; margin: 110px auto;}
 .space_inner{width: 1300px; height:710px; margin: 0 auto;}
 
-.space_ul{width: 1200px; height:593px;}
+.space_ul{width: 1200px; height:593px; padding-left: 85px;}
 .space_ul li{float: left;}
 
 /**/
